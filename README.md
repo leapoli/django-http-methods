@@ -29,7 +29,7 @@ Django, nativelly, doesn't support another HTTP verbs than GET and POST; but it'
 
 ## Examples on making a request on jQuery
 
-    ``` javascript
+    ```javascript
       $.ajax({
         type: 'POST',
         url: some_url,
