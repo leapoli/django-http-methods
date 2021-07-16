@@ -6,7 +6,7 @@ Working on Python 3+ and Django 2+
 
 ## Fundamentals
 
-Django, nativelly, doesn't support another HTTP verbs than GET and POST; but it's possible use anothers in a standard way. To do so, it's necessary make a POST request with the header X-HTTP-Method-Override, wich indicates that actual method it's meant to be overrided with the value of the header.
+Django, nativelly, doesn't support anothers HTTP verbs than GET and POST; but it's possible to use the others in a standard way. To do so, it's necessary to make a POST request with the header X-HTTP-Method-Override, which indicates that actual method it's meant to be overriten with the value of the header.
 
 ## Usage
 
