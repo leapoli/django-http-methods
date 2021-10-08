@@ -1,6 +1,6 @@
 # django-http-methods
 
-Middleware to support standard HTTP verbs DELETE and PUT for Django without Django Rest Framework. Also available for add another or custom verbs.
+Middleware to support standard HTTP verbs DELETE, PUT and PATCH for Django without Django Rest Framework. Also available for add another or custom verbs.
 
 Working on Python 3+ and Django 2+
 
